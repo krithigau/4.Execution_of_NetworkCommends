@@ -27,6 +27,11 @@ This commands includes
 <BR>
 
 ## Output
+PING COMMAND:
+![image](https://github.com/krithigau/4.Execution_of_NetworkCommends/assets/150319401/550ac466-3012-434a-a47c-5af2e158733b)
+
+TRACEROUTE COMMAND:
+![image](https://github.com/krithigau/4.Execution_of_NetworkCommends/assets/150319401/1d872067-3250-43fd-bd7e-d2a7405fb5ce)
 
 ## Result
 Thus Execution of Network commands Performed 
